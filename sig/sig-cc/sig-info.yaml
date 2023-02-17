@@ -1,0 +1,17 @@
+name: sig-cc
+description: ceshi
+created_on: '2023-02-17'
+mailing_list: ""
+meeting_url: ""
+mature_level: ""
+maintainers:
+  - github_id: qinsheng99
+    name: zjm
+    email: zjm.514@qq.com
+repositories:
+  - repo:
+    - qinsheng99/test
+    committers:
+    - github_id: yangwei999
+      name: yangwei
+      email: yangwei@qq.com
