@@ -2,6 +2,6 @@ name: test1
 description: "ceshi"
 plat_form: "github"
 branches:
-  - name: master
+  - name: main
     type: protected
 type: public
