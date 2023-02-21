@@ -12,6 +12,6 @@ repositories:
   - repo:
     - qinshengorg/test1
     committers:
-    - github_id: yangwei999
+    - gitee_id: yangwei999
       name: yangwei
       email: yangwei@qq.com
