@@ -1,0 +1,6 @@
+name: test
+description: 'ceshi'
+branches:
+  - name: master
+    type: protected
+type: public
