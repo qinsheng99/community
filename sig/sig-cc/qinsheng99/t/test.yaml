@@ -1,5 +1,6 @@
-name: test
-description: 'ceshi'
+name: test1
+description: "ceshi"
+plat_form: "github"
 branches:
   - name: master
     type: protected
