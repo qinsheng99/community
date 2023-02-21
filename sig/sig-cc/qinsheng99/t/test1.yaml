@@ -1,7 +1,0 @@
-name: test1
-description: "ceshi"
-plat_form: "github"
-branches:
-  - name: main
-    type: protected
-type: public
