@@ -10,6 +10,7 @@ maintainers:
     email: zjm.514@qq.com
 repositories:
   - repo:
+    - qinshengorg/test1
     - qinshengorg/test2
     committers:
     - gitee_id: yangwei999

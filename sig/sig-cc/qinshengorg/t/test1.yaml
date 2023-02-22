@@ -4,4 +4,6 @@ plat_form: "github"
 branches:
   - name: main
     type: protected
+  - name: test1
+    type: protected
 type: public
